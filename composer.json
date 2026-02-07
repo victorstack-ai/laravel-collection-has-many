@@ -1,0 +1,17 @@
+{
+    "name": "victorstack/laravel-collection-has-many",
+    "description": "Implements a hasMany method for Laravel Collections",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^10.0|^11.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Victorstack\\LaravelCollectionHasMany\\": "src/"
+        }
+    }
+}
