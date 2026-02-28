@@ -1,3 +1,7 @@
+[![CI](https://github.com/victorstack-ai/laravel-collection-has-many/actions/workflows/ci.yml/badge.svg)](https://github.com/victorstack-ai/laravel-collection-has-many/actions/workflows/ci.yml)
+[![PHP Version](https://img.shields.io/badge/php-8.1%20|%208.2%20|%208.3%20|%208.4-blue)](https://www.php.net/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 # Laravel Collection hasMany() Method
 
 This library implements a `hasMany()` macro for Laravel Collections, allowing you to easily associate related collections of data, similar to Eloquent eager loading but for plain arrays and objects.
